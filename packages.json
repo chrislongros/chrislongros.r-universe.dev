@@ -1,4 +1,4 @@
 [
   { "package": "ankiR", "url": "https://github.com/chrislongros/ankiR" },
-  { "package": "rfsrs", "url": "https://github.com/chrislongros/r-fsrs", "branch": "master" }
+  { "package": "rfsrs", "url": "https://github.com/open-spaced-repetition/r-fsrs", "branch": "master" }
 ]
