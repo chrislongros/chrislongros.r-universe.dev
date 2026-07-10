@@ -1,6 +1,7 @@
 [
-  { "package": "ankiR", "url": "https://github.com/chrislongros/ankiR", "branch": "*release" },
+  { "package": "ankiR", "url": "https://github.com/chrislongros/ankiR" },
   { "package": "rfsrs", "url": "https://github.com/open-spaced-repetition/r-fsrs", "branch": "master" },
   { "package": "freebsdcontribs", "url": "https://github.com/chrislongros/freebsdcontribs" },
-  { "package": "osscontribs", "url": "https://github.com/chrislongros/osscontribs" }
+  { "package": "osscontribs", "url": "https://github.com/chrislongros/osscontribs" },
+  { "package": "srsbench", "url": "https://github.com/chrislongros/srsbench" }
 ]
