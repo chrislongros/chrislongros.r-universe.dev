@@ -4,5 +4,6 @@
   { "package": "freebsdcontribs", "url": "https://github.com/chrislongros/freebsdcontribs" },
   { "package": "osscontribs", "url": "https://github.com/chrislongros/osscontribs" },
   { "package": "srsbench", "url": "https://github.com/chrislongros/srsbench" },
-  { "package": "fletcher", "url": "https://github.com/chrislongros/fletcher" }
+  { "package": "fletcher", "url": "https://github.com/chrislongros/fletcher" },
+  { "package": "basil", "url": "https://github.com/chrislongros/basil" }
 ]
