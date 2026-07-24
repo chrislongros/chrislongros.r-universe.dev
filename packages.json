@@ -5,5 +5,6 @@
   { "package": "osscontribs", "url": "https://github.com/chrislongros/osscontribs" },
   { "package": "srsbench", "url": "https://github.com/chrislongros/srsbench" },
   { "package": "fletcher", "url": "https://github.com/chrislongros/fletcher" },
-  { "package": "basil", "url": "https://github.com/chrislongros/basil" }
+  { "package": "basil", "url": "https://github.com/chrislongros/basil" },
+  { "package": "possum", "url": "https://github.com/chrislongros/possum" }
 ]
